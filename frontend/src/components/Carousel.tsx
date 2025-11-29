@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 const bannerImages = [
   "https://images.unsplash.com/photo-1613771404721-1f92d799e49f?w=1200&h=400&fit=crop",
   "https://images.unsplash.com/photo-1542779283-429940ce8336?w=1200&h=400&fit=crop",
-  "https://images.unsplash.com/photo-1611339555312-e607c8352fd7?w=1200&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1732418483426-f54404116aec?w=1200&h=400&fit=crop",
 ];
 
 export function Carousel() {

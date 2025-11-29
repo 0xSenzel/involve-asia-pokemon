@@ -62,11 +62,11 @@ const Index = () => {
           </div>
           <div className="grid grid-rows-2 gap-4 h-[300px] md:h-[400px]">
             <StaticBanner
-              image="https://images.unsplash.com/photo-1605979399824-542f137c8e5e?w=800&h=400&fit=crop"
+              image="https://images.unsplash.com/photo-1643725173053-ed68676f1878?w=800&h=400&fit=crop"
               alt="Static banner 1"
             />
             <StaticBanner
-              image="https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&h=400&fit=crop"
+              image="https://images.unsplash.com/photo-1627693685101-687bf0eb1222?w=800&h=400&fit=crop"
               alt="Static banner 2"
             />
           </div>
@@ -157,7 +157,7 @@ const Index = () => {
           <div className="hidden md:block">
             <div className="sticky top-6">
               <SideImage
-                image="https://images.unsplash.com/photo-1611339555312-e607c8352fd7?w=400&h=600&fit=crop"
+                image="https://images.unsplash.com/photo-1678736424589-29540f17cffa?w=400&h=600&fit=crop"
                 alt="Side decoration"
               />
             </div>
